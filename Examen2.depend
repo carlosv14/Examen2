@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1490135702 source:c:\users\cvare\downloads\examen2algoritmos-master\examen2algoritmos-master\test.cpp
+	"Test.h"
+
+1490135702 c:\users\cvare\downloads\examen2algoritmos-master\examen2algoritmos-master\test.h
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<map>
+	<queue>
+	<list>
+	<set>
+
+1490146384 source:c:\users\cvare\downloads\examen2algoritmos-master\examen2algoritmos-master\main.cpp
+	"Test.h"
+	<iostream>
+
